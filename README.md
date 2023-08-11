@@ -1,2 +1,2 @@
 # repositório_teste
- Apenas um repositório teste no git hub
+ Apenas um repositório teste no gitHub.
